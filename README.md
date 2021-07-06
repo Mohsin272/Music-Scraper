@@ -1,6 +1,8 @@
 # Music-Scraper 🎵 🎵 🎵 
 
-This is a simple music web scraper app which scrapes the current top 100 songs from Billboard https://www.billboard.com/charts/hot-100
+This is a simple music web scraper app which scrapes the title, artist and current position from the top 100 songs from Billboard 
+
+https://www.billboard.com/charts/hot-100
 
 ## Setup
 
